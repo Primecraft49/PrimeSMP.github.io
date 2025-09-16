@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Primecraft49's GitHub Page</PrimeSMP.github.io>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #000000;
+      color: black;
+      padding: 2rem 0;
+    }
+    section {
+      padding: 2rem;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #2ea44f;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background-color: #e1e4e8;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Chandika's GitHub Page</h1>
+    <p>Student • Tennis Player • Creator</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hi! I'm Chandika from Sri Lanka. I love coding, tennis, and building cool stuff.</p>
+    <a class="button" href="https://github.com/yourusername" target="_blank">Visit My GitHub</a>
+  </section>
+
+  <section>
+    <h2>Featured Projects</h2>
+    <ul>
+      <li><strong>My Portfolio Website</strong> – A sleek personal site built with HTML/CSS.</li>
+      <li><strong>Tennis Tracker</strong> – A web app to log matches and stats.</li>
+      <li><strong>Creative Hub</strong> – A space for my designs and experiments.</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Chandika. Made with ❤️ and HTML.
+  </footer>
+</body>
+</html>
+
